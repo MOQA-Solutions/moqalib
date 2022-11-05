@@ -178,6 +178,3 @@ check_waiting_ack( _ , _ ) ->
 	false.
 
 
-
-
-

@@ -690,4 +690,3 @@ encode_updates(Updates) ->
 	maps:fold(Fun , { <<>> , 0 } , Updates).
 
 
-
